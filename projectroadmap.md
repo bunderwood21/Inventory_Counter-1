@@ -7,7 +7,7 @@
 
 4: [x]Created projectroadmap.md with listed objected for project - 11/6/20
 
-5: []Begin develop code to get The Inventory Counter started -11/10/20
+5: [x]Begin develop code to get The Inventory Counter started -11/10/20
 
 6: []Have gretting and sign-in finished -11/10/20     
 
